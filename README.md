@@ -10,11 +10,11 @@ Data Source (.csv) ➡️ Data Cleaning & EDA (Python) ➡️ Multi-Platform Ana
 ---
 
 ## 🚀 Project Assets & Interactive Links
-* 📊 **Power BI Report:** [Download & View .pbix File](./powerbi/pizza_sales_report.pbix) *(Download to view full interactive DAX model)*
+* 📊 **Power BI Report:** [Download .pbix File](./powerbi.pbix) *(Click to download & view full interactive DAX model)*
 * 📈 **Tableau Public Dashboard:** [View Interactive Tableau Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE])
-* 🐍 **Python Analysis:** [View Jupyter Notebook Workspace](./eda/pizza_analysis.ipynb)
-* 📁 **Excel File:** [Download Excel Dashboard](./excel/pizza_sales_dashboard.xlsx)
----
+* 🐍 **Python Analysis:** [View Jupyter Notebook](./eda.ipynb) *(Click to view code and data visualization workflow)*
+* 📁 **Excel File:** [Download Excel Dashboard]([PASTE_YOUR_EXCEL_LINK_OR_PATH_HERE])
+----
 
 ## 📊 Core Performance Metrics (KPIs)
 Based on the full year of data analyzed (Jan 2015 - Dec 2015), the business achieved the following foundational metrics:
