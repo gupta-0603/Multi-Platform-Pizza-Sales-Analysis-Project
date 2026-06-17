@@ -9,12 +9,11 @@ Data Source (.csv) ➡️ Data Cleaning & EDA (Python) ➡️ Multi-Platform Ana
 
 ---
 
-## 🚀 Live Links & Project Assets
-* 📊 **Power BI Live Dashboard:** [View Interactive Power BI Dashboard]([PASTE_YOUR_POWER_BI_PUBLISH_LINK_HERE])
+## 🚀 Project Assets & Interactive Links
+* 📊 **Power BI Report:** [Download & View .pbix File](./powerbi/pizza_sales_report.pbix) *(Download to view full interactive DAX model)*
 * 📈 **Tableau Public Dashboard:** [View Interactive Tableau Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE])
-* 🐍 **Python Analysis:** [View Jupyter Notebook Workspace](./[PASTE_YOUR_FOLDER_NAME_FOR_NOTEBOOK]/your_notebook.ipynb)
-* 📁 **Excel File:** [Download Excel Dashboard](./[PASTE_YOUR_FOLDER_NAME_FOR_EXCEL]/your_excel_file.xlsx)
-
+* 🐍 **Python Analysis:** [View Jupyter Notebook Workspace](./eda/pizza_analysis.ipynb)
+* 📁 **Excel File:** [Download Excel Dashboard](./excel/pizza_sales_dashboard.xlsx)
 ---
 
 ## 📊 Core Performance Metrics (KPIs)
