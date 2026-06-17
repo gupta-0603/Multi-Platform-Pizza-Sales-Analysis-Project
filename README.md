@@ -83,7 +83,19 @@ Below is the specialized performance breakout tracking top-tier and underperform
 
 ---
 
-## 🛠️ Tools & Technologies Used
-* **Languages:** Python, DAX (Power BI)
-* **Visualization Platforms:** Power BI Desktop, Tableau Public, Microsoft Excel
-* **Environment:** Jupyter Notebook
+## 🛠️ Tools, Libraries & Technologies Used
+
+### 🐍 Python Data Stack
+* **Core Analytics:** `Pandas` (Data manipulation, cleaning, and structural aggregations), `NumPy` (Vectorized numerical operations).
+* **Data Visualization:** `Matplotlib` (Custom trends and layout design), `Seaborn` (Advanced statistical data plots), `Plotly Express` (Dynamic, interactive browser-ready visualizations).
+* **Package Management & Warnings:** `warnings` (Runtime filter optimization).
+
+### 📊 Business Intelligence & Dashboarding
+* **Power BI Desktop:** Advanced data modeling, DAX measure calculations (KPI engineering), custom conditional formatting, and time-intelligence reporting.
+* **Tableau Public:** Dynamic visual design, worksheet actions, and custom formatting.
+* **Microsoft Excel:** Power Query for data parsing, Pivot Tables, and interactive dashboard Slicers.
+
+### 🖥️ Environments, IDEs & Version Control
+* **Visual Studio Code (VS Code):** Used as the primary IDE for script management and Jupyter Notebook execution.
+* **Jupyter Notebooks:** Interactive exploration workspace for testing cleaning pipelines and markdown notation.
+* **Git & GitHub:** Repository version control, asset tracking, and open-source documentation.
