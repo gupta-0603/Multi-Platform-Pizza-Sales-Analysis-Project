@@ -95,7 +95,7 @@ Below is the specialized performance breakout tracking top-tier and underperform
 * **Tableau Public:** Dynamic visual design, worksheet actions, and custom formatting.
 * **Microsoft Excel:** Power Query for data parsing, Pivot Tables, and interactive dashboard Slicers.
 
-### 🖥️ Environments, IDEs & Version Control
+###  Environments, IDEs & Version Control
 * **Visual Studio Code (VS Code):** Used as the primary IDE for script management and Jupyter Notebook execution.
 * **Jupyter Notebooks:** Interactive exploration workspace for testing cleaning pipelines and markdown notation.
 * **Git & GitHub:** Repository version control, asset tracking, and open-source documentation.
